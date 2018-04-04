@@ -1,0 +1,3 @@
+# samplejavaprojects
+
+sample maven project
